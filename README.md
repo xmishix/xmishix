@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mishieru 👋🖤
 
-<!--
-**xmishix/xmishix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"The beginning of wisdom is the definition of terms."* — Socrates
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 M.S. Computer Science — Cybersecurity emphasis
+- ⚛️ B.S. Physics
+- 🤖 I build Arduino & robotics projects for fun
+- 🌐 Language learner (always picking up a new one)
+- ☕ Coffee & tea enthusiast | 📚 Avid reader
+- 🔒 Passionate about security, systems, and how things *really* work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Up To
+- 🔧 Tinkering with embedded systems & microcontrollers
+- 🛡️ Exploring CTF challenges and security research
+- 📖 Reading everything I can get my hands on
+
+## Skills & Tools
+`Python` `C/C++` `Arduino` `Linux` `Cybersecurity` `Networking` 
+
+## GitHub Stats
+![xmishix's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmishix&show_icons=true&theme=dark)
