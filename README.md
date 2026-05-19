@@ -11,9 +11,9 @@
 - ☀︎ Passionate about security, systems, and how things *really* work
 
 ## What I'm Up To ദ്ദി(ᵔᗜᵔ)
-- ⚡︎ Tinkering with embedded systems & microcontrollers
-- ⚡︎ Exploring CTF challenges and security research
-- ⚡︎ Reading everything I can get my hands on
+- 𑣲 Tinkering with embedded systems & microcontrollers
+- 𑣲 Exploring CTF challenges and security research
+- 𑣲 Reading everything I can get my hands on
 
 ## Skills & Tools ᕙ(  •̀ ᗜ •́  )ᕗ
 `Python` `C/C++` `Arduino` `Linux` `Cybersecurity` `Networking` 
