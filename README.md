@@ -18,5 +18,5 @@
 ## Skills & Tools ᕙ(  •̀ ᗜ •́  )ᕗ
 `Python` `C/C++` `Arduino` `Linux` `Cybersecurity` `Networking` 
 
-## GitHub Stats ¯\_(ツ)_/¯
+## GitHub Stats  ( ˶°ㅁ°) !!
 ![xmishix's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmishix&show_icons=true&theme=dark)
