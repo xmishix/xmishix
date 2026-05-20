@@ -18,5 +18,4 @@
 ## Skills & Tools ᕙ(  •̀ ᗜ •́  )ᕗ
 `Python` `C/C++` `Arduino` `Linux` `Cybersecurity` `Networking` 
 
-## GitHub Stats  ( ˶°ㅁ°) !!
-https://github.com/xmishix?tab=overview&from=2026-05-01&to=2026-05-20
+## ( ˶°ㅁ°) !!
