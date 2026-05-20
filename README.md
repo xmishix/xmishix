@@ -19,4 +19,4 @@
 `Python` `C/C++` `Arduino` `Linux` `Cybersecurity` `Networking` 
 
 ## GitHub Stats  ( ˶°ㅁ°) !!
-![xmishix's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmishix&show_icons=true&theme=dark)
+https://github.com/xmishix?tab=overview&from=2026-05-01&to=2026-05-20
